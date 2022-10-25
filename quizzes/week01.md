@@ -62,7 +62,7 @@ cascading style sheet
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property gives the user control over how the objects are going to align themselves to the page and each other.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
