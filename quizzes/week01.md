@@ -38,25 +38,25 @@ cascading style sheet
 ```
 <!-- enter you answer in the space below -->
 ```
-test test
+selector, property, and value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+class or id
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+li, ul, and ol
 ```
 
 **10.** Define the display `:flex property:`
@@ -68,5 +68,5 @@ The flex property gives the user control over how the objects are going to align
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height and width
 ```
