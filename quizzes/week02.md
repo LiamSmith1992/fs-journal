@@ -8,7 +8,7 @@ var, const, let
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+a subprogram designed to preform a particular task
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
