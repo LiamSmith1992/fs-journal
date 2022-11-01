@@ -32,13 +32,15 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+them.name= you.friends[0]
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if(x =>4){
+  y=5
+}
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -47,12 +49,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-++ or += 1
+++ or += 1 or a number some of some type telling the loop what to do
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+document object model html
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
