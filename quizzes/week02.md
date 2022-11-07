@@ -60,15 +60,15 @@ document object model html
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+modules for javascript
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+arguments are passed into functions in the place of parameters
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+reference values are objects or arrays while primitive don't have assigned values
 ```
